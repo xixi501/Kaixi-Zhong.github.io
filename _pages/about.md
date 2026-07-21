@@ -17,7 +17,10 @@ redirect_from:
 
 **Major:** Computer Science and Technology
 
-**Email:** [202411998311@mail.bnu.edu.cn ](mailto:202411998311@mail.bnu.edu.cn )
+**Email:**
+- 202411998311@mail.bnu.edu.cn
+- kaixi_zhong1@163.com
+- zkx9273@gmail.com
 
 ## About
 
